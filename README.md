@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajab Moh</h1>
-<h3 align="center">A passionate Dot Net Developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Rajab Mohamed Rajab</h1>
+<h3 align="center">I'm A Dot Net Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **C# - C++ - JavaScript - MVC - API**
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
