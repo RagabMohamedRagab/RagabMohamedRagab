@@ -3,7 +3,7 @@
 <br/>
 <div align="center">
 
-<img src="/Imgs/BG.gif"/>
+<img src="/Imgs/BG.gif" style="width:50%;height:50%"/>
 <br/>
 <br/>
 
