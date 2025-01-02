@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Ragab!
+# Hi there 👋, I'm Ragab Mohamed Ragab!
 
-🎓 **Bachelor’s Degree in Computer Science & Math**  
-💼 **Junior .NET Developer | ASP.NET Core | Full-Stack Developer**  
+🎓 **Bachelor’s Degree in Computer Science & Mathematics**  
+💼 **Jr .NET Developer | ASP.NET Core MVC & Web API Specialist | 1+ Year of Experience**  
 🚀 Passionate about solving real-world problems with technology and contributing to open-source projects.  
 🌍 Based in Egypt.  
 
@@ -9,9 +9,9 @@
 
 ## 🛠️ Tech Stack
 - **Languages**: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks**: ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Frameworks**: ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![ASP.NET Core API](https://img.shields.io/badge/-WebAPI-61DAFB?style=flat&logo=dotnet&logoColor=danger)
 - **Tools**: ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-- **Databases**: ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- **Databases**: ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![My Sql Server](https://img.shields.io/badge/%20MySql-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
