@@ -39,7 +39,7 @@
 
 ## 📬 Get in Touch
 - LinkedIn: [[linkedin.com/in/ragab](https://www.linkedin.com/in/rajab-mohamed-76988a1aa/)]([https://linkedin.com/in/ragab](https://www.linkedin.com/in/rajab-mohamed-76988a1aa/))  
-- Portfolio: [ragabportfolio.com](https://ragabportfolio.com)  
+- Portfolio: [Rajab](https://rajabm7md.netlify.app/))  
 - Email: [rajab.mohamed.rajab23@gmail.com](mailto:rajab.mohamed.rajab23@gmail.com)  
 
 ---
