@@ -1,47 +1,16 @@
-# Hi there 👋, I'm Ragab Mohamed Ragab!
-
-🎓 **Bachelor’s Degree in Computer Science & Mathematics**  
-💼 **Jr .NET Developer | ASP.NET Core MVC & Web API Specialist | 1+ Year of Experience**  
-🚀 Passionate about solving real-world problems with technology and contributing to open-source projects.  
-🌍 Based in Egypt.  
-
----
-
-## 🛠️ Tech Stack
-- **Languages**: ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- **Frameworks**: ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![ASP.NET Core API](https://img.shields.io/badge/-WebAPI-61DAFB?style=flat&logo=dotnet&logoColor=danger)
-- **Tools**: ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-- **Databases**: ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![My Sql Server](https://img.shields.io/badge/%20MySql-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-1. [**E-Commerce Web Application**]([https://github.com/Ragab/ecommerce-project](https://github.com/RagabMohamedRagab/Online-Store))  
-   - A full-stack project built with ASP.NET Core and React.  
-   - Features include user authentication, product management, and online payments.
-
-2. [**Courses Platform**]([https://github.com/Ragab/blog-platform](https://github.com/RagabMohamedRagab/Course-Platform))  
-   - Developed using ASP.NET MVC and integrated with a SQL Server database.  
-   - Includes an admin dashboard and RESTful API.
-
-3. [**RealTime Chatting Application**]([https://github.com/Ragab/contributed-project](https://github.com/RagabMohamedRagab/Chat-Application))  
-   - The chat application using SignalR was developed as a real time messaging
-    Platform to facilitate seamless communication between users. It includes private
-    Conversation, message history, and instant messaging.
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragab&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragab&layout=compact&theme=radical)
-
----
-
-## 📬 Get in Touch
-- LinkedIn: [[linkedin.com/in/ragab](https://www.linkedin.com/in/rajab-mohamed-76988a1aa/)]([https://linkedin.com/in/ragab](https://www.linkedin.com/in/rajab-mohamed-76988a1aa/))  
-- Portfolio: [Rajab](https://rajabm7md.netlify.app/))  
-- Email: [rajab.mohamed.rajab23@gmail.com](mailto:rajab.mohamed.rajab23@gmail.com)  
-
----
-
-Thanks for visiting my profile! 😊
+<h1 align="center">Hello World!, I'm Rajab Mohamed</h1>
+<h2 align="center">Software Engineer | .NET Developer</h2>
+  <p align="center"> <a href="https://www.google.com.eg/search?q=Rajab+Mohamed+Rajab">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20"> </a> </p>
+  <p align="center"> <a href="https://www.linkedin.com/in/rajab-mohamed-rajab-76988a1aa/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40"/> </a>
+    <a href="mailto:rajab.mohamed.rajab23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23A00000.svg?logo=gmail&logoColor=white" height="40"/> </a> </p>
+      <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajab-mohamed-rajab-76988a1aa&color=4010B0" height="37"/> </p>
+<h3 align="left">💎 About Me:</h3>
+  <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
+  <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
+  <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
+<h3 align="left">🛠️ Languages & Tools:</h3>
+  <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,react,postman,git,azure,stackoverflow&perline=13"/> </p>
+<h3 align="left">🏆 My GitHub Trophies:</h3>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RagabMohamedRagab&theme=algolia" alt="Ragab Mohamed"/> </a> </p>
+  <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </a> </p>
