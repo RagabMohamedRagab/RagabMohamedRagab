@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!, I'm Rajab Mohamed</h1>
-<h2 align="center">Software Engineer | .NET Developer</h2>
+<h2 align="center">Software Engineer | JR .NET Developer</h2>
   <p align="center"> <a href="https://www.google.com.eg/search?q=Rajab+Mohamed+Rajab">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20"> </a> </p>
   <p align="center"> <a href="https://www.linkedin.com/in/rajab-mohamed-rajab-76988a1aa/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40"/> </a>
