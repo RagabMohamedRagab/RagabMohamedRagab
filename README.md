@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | JR .NET Developer</h2>
   <p align="center"> <a href="https://www.google.com.eg/search?q=Rajab+Mohamed+Rajab">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20"> </a> </p>
-  <p align="center"> <a href="https://www.linkedin.com/in/rajab-mohamed-rajab-76988a1aa/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40"/> </a>
+  <p align="center"> <a href="https://www.linkedin.com/in/rajab-mohamed-76988a1aa/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40"/> </a>
     <a href="mailto:rajab.mohamed.rajab23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23A00000.svg?logo=gmail&logoColor=white" height="40"/> </a> </p>
       <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajab-mohamed-rajab-76988a1aa&color=4010B0" height="37"/> </p>
 <h3 align="left">💎 About Me:</h3>
